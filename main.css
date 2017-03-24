@@ -1,0 +1,68 @@
+
+/**************************
+GENERAL
+***************************/
+* {
+box-sizing: border-box;
+}
+
+#container {
+  max-width:940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+
+body {
+  font-family: Arial;
+}
+
+/**************************
+HEADING
+***************************/
+
+h1 {
+  color: orange;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  padding: 10px;
+}
+
+/**************************
+NAVIGATION
+***************************/
+nav li {
+  color: white;
+  list-style-type: none;
+  height: auto !important;
+  width: auto !important;
+  display: inline-block;
+
+
+
+}
+
+
+
+/**************************
+SECTION
+***************************/
+
+
+
+
+
+
+
+/**************************
+FOOTER
+***************************/
+
+footer {
+
+}
